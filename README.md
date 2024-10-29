@@ -41,15 +41,6 @@ Mind Scribbles is a minimalistic blogging website that emphasizes readability an
    flask run
    ```
 
-   The site should now be live on `http://localhost:5000`.
-
-## Screenshots 📸
-
-![{113981BC-6955-4075-9D6B-95BCF51CFB83}](https://github.com/user-attachments/assets/9afd5897-e11f-43fe-ae87-c534a6a81204)
-![{5469279C-C670-4B2B-8BB3-ACDF41C35E19}](https://github.com/user-attachments/assets/3738f552-f0bc-4e76-8a4b-8f0bfb0f0e98)
-
-
-
 ## Contributing 🤝
 
 Mind Scribbles is a personal project, but feedback and contributions are always welcome. Feel free to open an issue for suggestions or improvements.
